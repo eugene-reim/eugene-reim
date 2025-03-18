@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eugene Reim
-- 🌱 I’m currently learning svelte, tailwindcss and tauri
+- 🌱 Currently learning svelte, tailwindcss and tauri
 - 💞️ I’m looking to collaborate on something cool
 - 📫 Reach me out => eugene.reim@gmail.com
 
