@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eugene Reim
-- 🌱 I’m currently learning svelte, tailwindcss
+- 🌱 I’m currently learning svelte, tailwindcss and tauri
 - 💞️ I’m looking to collaborate on something cool
-- 📫 How to reach me eugene.reim@gmail.com
+- 📫 Reach me out => eugene.reim@gmail.com
 
 <!---
 eugene-reim/eugene-reim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
